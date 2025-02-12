@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Get stunned by the Great Pyramid of Giza",
+        "location": "Giza Necropolis, Egypt",
+        "photoFilename": "GreatPyramidOfGizaActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+        "description": "The Great Pyramid of Giza defines bucket list goals. Built over 5000 years ago, it is the oldest and the biggest of the pyramids, the last structure of the Seven Ancient Wonders of the World that survived. It is a marvel of human engineering and construction, and a defining symbol of the Egyptian world."
+    },
+    {
+        "id": 2,
+        "title": "Walk along the Great Wall of China",
+        "location": "Huairou District, China",
+        "photoFilename": "GreatWallOfChinaActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+        "description": "The Great Wall of China is a good reason for the existence of the Bucket List! It’s an astonishing relic of China’s history, and it’s a must for many travelers and tourists around the world, in fact, it is considered as one of the Seven Wonders of the World. Identified as one of the most important symbols of China, it consists of numerous walls and fortification, many running parallels to each other for a measure of 8,850 km. The Great Wall can be visited from Beijing."
+    },
+    {
+        "id": 3,
+        "title": "Explore Petra",
+        "location": "Ma'an Governorate, Jordan",
+        "photoFilename": "PetraActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Petra",
+        "description": "Jordan’s rose-colored sandstone city is an extraordinary experience. On the border of the Arabian desert, hidden in the mountains of the Dead Sea, Petra is one of the most notorious archeological sites in the world. The city’s architectural beauty comes from the fact that it was directly chiseled from the sandstone mountains. Temples, tombs, and monastery that you cannot miss!"
+    },
+    {
+        "id": 4,
+        "title": "Visit the Colosseum",
+        "location": "Rome, Italy",
+        "photoFilename": "ColosseumActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Colosseum",
+        "description": "Recognized as one of the Seven Wonders of the World, Rome’s great gladiatorial arena is the most exciting of the city’s ancient sights. Also known as the Flavian Amphitheatre, the Colosseum is the perfect example of Roman engineering and architecture. It’s the largest amphitheater in the world and the site of some of the bloodiest and most brutal contests in history."
+    },
+    {
+        "id": 5,
+        "title": "Walk to Chichen Itza",
+        "location": "Yucatán, Mexico",
+        "photoFilename": "ChichenItzaActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Chichen_Itza",
+        "description": "Located in the Yutacan state of Mexico, Chichen Itza is the best place to visit in the world if you are interested in an ancient Mayan city featuring ruins and architectural wonders that captures the culture and history of the people from the past. For a cultural experience and a chance to discern a significant part of Mayan heritage, this is the right trip."
+    },
+    {
+        "id": 6,
+        "title": "Trek to Machu Picchu",
+        "location": "Cusco Region, Peru",
+        "photoFilename": "MachuPicchuActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Machu_Picchu",
+        "description": "A trip to Incas’ lost city in Peru is a dream trip for many travelers. Machu Picchu is an Inca citadel situated on a mountain of 2,430 meters above sea level, that can be reached by a hike on mountain trails or a train trip through the valley of the Urubamba River. As one of the best places to visit in the world and most visited tourist destinations in South America, Machu Picchu is sure to fill travelers with high expectations."
+    },
+    {
+        "id": 7,
+        "title": "Discover the Taj Mahal",
+        "location": "Agra, Uttar Pradesh, India",
+        "photoFilename": "TajMahalActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Taj_Mahal",
+        "description": "An enormous mausoleum of white marble, built in Agra between the 1631 and 1648 by order of the Mughal emperor Shah Janan in memory of his beloved wife, the Taj Mahal is the jewel of Muslim art and one of the Seven Wonders of the World. Nowadays, the Taj Mahal is one of the best places to visit in Agra, attracts over 3 million visitors each year and has become an unmissable attraction for anyone traveling in India."
+    },
+    {
+        "id": 8,
+        "title": "Hike to Christ the Redeemer",
+        "location": "Corcovado mountain, Rio de Janeiro, Brazil",
+        "photoFilename": "ChristRedeemerActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+        "description": "Situated at the top of Mount Corcovado overlooking the city of Rio de Janeiro, the statue of the Christ the Redeemer not only captures tourists’ attention with its breathtaking views but also with the imponent statue of the Christ, considered as one of the Seven Wonders of the World. Standing with his arms open, the Christ is one of the most recognized and photographed monuments in Brazil."
+    },
+    {
+        "id": 9,
+        "title": "Be intrigued by Stonehenge",
+        "location": "Wiltshire, England",
+        "photoFilename": "StonehengeActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Stonehenge",
+        "description": "One of the wonders of the world and best-known prehistoric monument located near the city of Salisbury, England. The structure that we call Stonehenge was built between roughly 5,000 and 4,000 years ago and was one part of a most extensive sacred landscaped."
+    },
+    {
+        "id": 10,
+        "title": "Sail on Ha Long Bay",
+        "location": "Vietnam",
+        "photoFilename": "HaLongBayActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Ha_Long_Bay",
+        "description": "The ethereal beauty, Ha Long Bay is located in the area of the Gulf of Tangkia, in the north of Vietnam. Frequently included in lists of natural wonders of the world, Halong Bay is famous for its scenic ocean karst topography and its crystal waters."
+    },
+    {
+        "id": 11,
+        "title": "Visit Notre Dame Cathedral",
+        "location": "Paris, France",
+        "photoFilename": "NotreDameCathedralActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "description": "One of the major attractions in Paris, the Notre Dame Cathedral is known as one of the most notorious of the Gothic cathedrals of the middle age and is distinguished for its size, antiquity and architectural details. Its stained glass windows and sculptures show the influence of naturalism that serves to contrast the Romanesque architecture. It’s also said that the cathedral’s tower has one of the best views of the city."
+    },
+    {
+        "id": 12,
+        "title": "Drink wine under the Eiffel Tower",
+        "location": "Paris, France",
+        "photoFilename": "EiffelTowerActivity",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+        "description": "The Eiffel Tower was the principal exhibition of the Paris Exposition of 1889. It was constructed for the commemoration of the centennial of French Revolution and to demonstrate France’s industrial power to the world. Nowadays is the emblem of the city of Paris and it’s considered an architectural wonder of the world, in fact, each year attracts more visitors."
+    }
+]

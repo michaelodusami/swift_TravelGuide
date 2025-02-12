@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Argentina",
+        "code": "ar",
+        "filename": "Argentina.htm"
+    },
+    {
+        "name": "Australia",
+        "code": "au",
+        "filename": "Australia.htm"
+    },
+    {
+        "name": "Brazil",
+        "code": "br",
+        "filename": "Brazil.htm"
+    },
+    {
+        "name": "Canada",
+        "code": "ca",
+        "filename": "Canada.htm"
+    },
+    {
+        "name": "China",
+        "code": "cn",
+        "filename": "China.htm"
+    },
+    {
+        "name": "Egypt",
+        "code": "eg",
+        "filename": "Egypt.htm"
+    },
+    {
+        "name": "France",
+        "code": "fr",
+        "filename": "France.htm"
+    },
+    {
+        "name": "Germany",
+        "code": "de",
+        "filename": "Germany.htm"
+    },
+    {
+        "name": "India",
+        "code": "in",
+        "filename": "India.htm"
+    },
+    {
+        "name": "Italy",
+        "code": "it",
+        "filename": "Italy.htm"
+    },
+    {
+        "name": "Japan",
+        "code": "jp",
+        "filename": "Japan.htm"
+    },
+    {
+        "name": "Mexico",
+        "code": "mx",
+        "filename": "Mexico.htm"
+    },
+    {
+        "name": "New Zealand",
+        "code": "nz",
+        "filename": "NewZealand.htm"
+    },
+    {
+        "name": "Russian Federation",
+        "code": "ru",
+        "filename": "Russia.htm"
+    },
+    {
+        "name": "Saudi Arabia",
+        "code": "sa",
+        "filename": "SaudiArabia.htm"
+    },
+    {
+        "name": "South Africa",
+        "code": "za",
+        "filename": "SouthAfrica.htm"
+    },
+    {
+        "name": "Spain",
+        "code": "es",
+        "filename": "Spain.htm"
+    },
+    {
+        "name": "Türkiye",
+        "code": "tr",
+        "filename": "Turkey.htm"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "gb",
+        "filename": "UnitedKingdom.htm"
+    },
+    {
+        "name": "United States",
+        "code": "us",
+        "filename": "UnitedStatesofAmerica.htm"
+    }
+]

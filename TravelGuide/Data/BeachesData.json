@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "title": "Maundays Bay, Anguilla",
+        "photoFilename": "Beach1",
+        "websiteUrl": "https://www.anguilla-beaches.com/"
+    },
+    {
+        "id": 2,
+        "title": "Kiawah Island, SC",
+        "photoFilename": "Beach2",
+        "websiteUrl": "https://www.charlestoncvb.com/beaches/kiawah-island/"
+    },
+    {
+        "id": 3,
+        "title": "Trunk Bay, St. John, USVI",
+        "photoFilename": "Beach3",
+        "websiteUrl": "https://stjohn-beachguide.com/trunk-bay/"
+    },
+    {
+        "id": 4,
+        "title": "Parrot Cay, Turks and Caicos",
+        "photoFilename": "Beach4",
+        "websiteUrl": "http://turksandcaicostourism.com/parrot-cay/"
+    },
+    {
+        "id": 5,
+        "title": "El Nido, Palawan, Philippines",
+        "photoFilename": "Beach5",
+        "websiteUrl": "https://www.saltinourhair.com/philippines/el-nido-guide/"
+    },
+    {
+        "id": 6,
+        "title": "Reethi Rah, North Malé Atoll, Maldives",
+        "photoFilename": "Beach6",
+        "websiteUrl": "https://www.oneandonlyresorts.com/reethi-rah"
+    },
+    {
+        "id": 7,
+        "title": "Hilton Head Island, SC",
+        "photoFilename": "Beach7",
+        "websiteUrl": "https://www.hiltonheadisland.org/"
+    },
+    {
+        "id": 8,
+        "title": "Horseshoe Bay, Bermuda",
+        "photoFilename": "Beach8",
+        "websiteUrl": "https://www.gotobermuda.com/article/horseshoe-bay-beach-essentials"
+    },
+    {
+        "id": 9,
+        "title": "Matira Beach, Bora Bora, French Polynesia",
+        "photoFilename": "Beach9",
+        "websiteUrl": "https://www.boraboraislandguide.com/matira-beach.html"
+    },
+    {
+        "id": 10,
+        "title": "Black Sand Beach, Wai'anapanapa State Park, Maui, Hawaii",
+        "photoFilename": "Beach10",
+        "websiteUrl": "https://hawaiistateparks.org/parks/maui/wai%CA%BBanapanapa-state-park/"
+    },
+    {
+        "id": 11,
+        "title": "Seven Mile Beach, Grand Cayman, Cayman Islands",
+        "photoFilename": "Beach11",
+        "websiteUrl": "https://www.visitcaymanislands.com/en-us/experiences/beaches/seven-mile-beach-grand-cayman"
+    },
+    {
+        "id": 12,
+        "title": "Palm Beach, Aruba",
+        "photoFilename": "Beach12",
+        "websiteUrl": "https://www.aruba.com/us/explore/palm-beach"
+    },
+    {
+        "id": 13,
+        "title": "Gouverneur, St. Barts",
+        "photoFilename": "Beach13",
+        "websiteUrl": "https://stbarth.com/our-island/discover-st-barth/beaches/55-gouverneur-beach"
+    },
+    {
+        "id": 14,
+        "title": "Elafonísi, Crete, Greece",
+        "photoFilename": "Beach14",
+        "websiteUrl": "https://www.cretetravel.com/activity/elafonisi-beach-in-west-crete/"
+    },
+    {
+        "id": 15,
+        "title": "English Harbour Beach, Antigua",
+        "photoFilename": "Beach15",
+        "websiteUrl": "https://www.expedia.com/English-Harbour.dx9313"
+    },
+    {
+        "id": 16,
+        "title": "Psarou Beach, Mykonos, Greece",
+        "photoFilename": "Beach16",
+        "websiteUrl": "https://www.mykonosbeachesguide.com/beaches/psarou-beach.html"
+    },
+    {
+        "id": 17,
+        "title": "Temae Plage Publique, Moorea, French Polynesia",
+        "photoFilename": "Beach17",
+        "websiteUrl": "https://www.tripadvisor.com/Attraction_Review-g309685-d1052299-Reviews-Temae_Beach-Moorea_Society_Islands.html"
+    },
+    {
+        "id": 18,
+        "title": "Honopu Beach, Kauai, HI",
+        "photoFilename": "Beach18",
+        "websiteUrl": "https://www.kauaibeachscoop.com/north-shore/honopu-beach/"
+    },
+    {
+        "id": 19,
+        "title": "Siasconset Beach, Nantucket, MA",
+        "photoFilename": "Beach19",
+        "websiteUrl": "https://www.tripadvisor.com/Attraction_Review-g29527-d107591-Reviews-Siasconset_Beach-Nantucket_Massachusetts.html"
+    },
+    {
+        "id": 20,
+        "title": "Banana Beach, Koh Hey (Coral) Island, Phuket, Thailand",
+        "photoFilename": "Beach20",
+        "websiteUrl": "https://bananabeachkohhey.com/"
+    },
+    {
+        "id": 21,
+        "title": "Sunset Beach, Oahu, Hawaii",
+        "photoFilename": "Beach21",
+        "websiteUrl": "https://www.best-of-oahu.com/sunset-beach-oahu.html"
+    },
+    {
+        "id": 22,
+        "title": "Bathsheba Beach, Barbados",
+        "photoFilename": "Beach22",
+        "websiteUrl": "https://www.visitbarbados.org/bathsheba-beach"
+    },
+    {
+        "id": 23,
+        "title": "Seagrass Bay, Laucala Island, Fiji",
+        "photoFilename": "Beach23",
+        "websiteUrl": "https://www.venturefiji.com/resorts/laucala-island/"
+    },
+    {
+        "id": 24,
+        "title": "Blue Beach (La Chiva), Vieques, Puerto Rico",
+        "photoFilename": "Beach24",
+        "websiteUrl": "https://vieques.com/la-chiva-beach-puerto-rico/"
+    }
+]

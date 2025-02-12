@@ -1,0 +1,35 @@
+# Xcode & macOS related
+.DS_Store
+xcuserdata/
+*.xcworkspace/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Checkouts
+Carthage/Build
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Derived Data & Logs
+DerivedData/
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+# SwiftPM Xcode integration
+.swiftpm

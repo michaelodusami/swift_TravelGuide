@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "placeName": "Paris",
+        "countryName": "France",
+        "countryCode": "fr",
+        "description": "Every day, the magnetic City of Light draws visitors who travel from around the globe to see iconic attractions like the Eiffel Tower, the Louvre, Le Marais and the Arc de Triomphe in real life. But what travelers really fall in love with are the city's quaint cafes, vibrant markets, trendy shopping districts and unmistakable je ne sais quoi charm.",
+        "photoFilename": "Paris",
+        "websiteUrl": "https://travel.usnews.com/Paris_France/",
+        "latitude": 48.856613,
+        "longitude": 2.352222
+    },
+    {
+        "id": 2,
+        "placeName": "South Island",
+        "countryName": "New Zealand",
+        "countryCode": "nz",
+        "description": "New Zealand's South Island brims with majestic landscapes at every turn, from dramatic mountains to fjords to glaciers. Here, you can explore Fiordland National Park, a UNESCO World Heritage Area, or gaze at the starry skies at Mount John Observatory. You can also indulge your inner daredevil in Queenstown, explore two of the most accessible glaciers in the world on the west coast or sample delicious food and wine in Marlborough.",
+        "photoFilename": "SouthIsland",
+        "websiteUrl": "https://www.outsideonline.com/2408674/new-zealand-south-island-travel-guide",
+        "latitude": -40.923859,
+        "longitude": 173.991425
+    },
+    {
+        "id": 3,
+        "placeName": "Rome",
+        "countryName": "Italy",
+        "countryCode": "it",
+        "description": "When you visit the Eternal City, prepare to cross a few must-see attractions, including the Colosseum, the Trevi Fountain and the Pantheon, off your bucket list. Additional treasures like St. Peter's Basilica and the Sistine Chapel can be found in nearby Vatican City. Escape the tourist crowds with a twilight stroll through the cobblestone streets of Trastevere. And take time to sample some of Rome's delicacies at Mercato Centrale Roma.",
+        "photoFilename": "Rome",
+        "websiteUrl": "https://travel.usnews.com/Rome_Italy/",
+        "latitude": 41.902782,
+        "longitude": 12.496365
+    },
+    {
+        "id": 4,
+        "placeName": "Tahiti",
+        "countryName": "French Polynesia",
+        "countryCode": "pf",
+        "description": "Travel to this island – the largest in French Polynesia – if you've been dreaming of a vacation spent lazing in a lavish overwater bungalow. Beyond the posh resorts, Tahiti boasts black sand beaches, a bustling capital and prime snorkeling and surfing conditions. Luxurious five-star resorts abound here, but the easiest (and cheapest) way to experience this paradise is on a cruise.",
+        "photoFilename": "Tahiti",
+        "websiteUrl": "https://travel.usnews.com/Tahiti_French_Polynesia/",
+        "latitude": -17.650921,
+        "longitude": -149.426041
+    },
+    {
+        "id": 5,
+        "placeName": "London",
+        "countryName": "United Kingdom",
+        "countryCode": "gb",
+        "description": "London is a world unto itself. The eclectic neighborhoods, which house a blend of historic landmarks and modern-day attractions, can keep you occupied for days. If it's your first time, don't pass up a visit to the Tower of London, Tate Modern, Buckingham Palace or the British Museum before sitting down to a classic afternoon tea. The best time to visit is during the warmer months, but be warned that these months are also the busiest and most expensive of the year.",
+        "photoFilename": "London",
+        "websiteUrl": "https://travel.usnews.com/London_England/",
+        "latitude": 51.507351,
+        "longitude": -0.127758
+    },
+    {
+        "id": 6,
+        "placeName": "Maui",
+        "countryName": "Hawaii, United States",
+        "countryCode": "us",
+        "description": "Whether you're driving along the Road to Hana, enjoying a bird's-eye view of the lush coastline from a helicopter, snorkeling with sea turtles or simply relaxing on the island's honey- or black-colored beaches, you'll find that Maui is unlike any other tropical destination. Don't miss a chance to visit Haleakala National Park, which is home to the world's largest dormant volcano.",
+        "photoFilename": "Maui",
+        "websiteUrl": "https://travel.usnews.com/Maui_HI/",
+        "latitude": 20.798363,
+        "longitude": -156.331924
+    },
+    {
+        "id": 7,
+        "placeName": "Bora Bora",
+        "countryName": "French Polynesia",
+        "countryCode": "pf",
+        "description": "What this small island may lack in size it makes up for in sheer tropical beauty. Here, you'll find picturesque beaches, lush jungles, luxurious resorts and a dormant volcano – Mount Otemanu makes for a great photo op or challenging hike. To relax, head to Matira Beach for crystal-clear water and soft sand. Keep in mind that a trip to Bora Bora is very expensive, though travelers say it's worth every penny.",
+        "photoFilename": "BoraBora",
+        "websiteUrl": "https://travel.usnews.com/Bora_Bora/",
+        "latitude": -16.500414,
+        "longitude": -151.741486
+    },
+    {
+        "id": 8,
+        "placeName": "Phuket",
+        "countryName": "Thailand",
+        "countryCode": "th",
+        "description": "Located in southern Thailand, Phuket offers something for everyone, especially budget-minded travelers. Everything from accommodations to spa treatments to boat tours come with a low price tag. For stunning scenery, check out the limestone cliffs of Phang Nga Bay and the white sand beaches of the Phi Phi Islands (accessible by boat from Phuket). Other must-sees include Wat Chalong Temple and the Big Buddha.",
+        "photoFilename": "Phuket",
+        "websiteUrl": "https://travel.usnews.com/Phuket_Thailand/",
+        "latitude": 7.951933,
+        "longitude": 98.338089
+    },
+    {
+        "id": 9,
+        "placeName": "Grand Canyon",
+        "countryName": "Arizona, United States",
+        "countryCode": "us",
+        "description": "Measuring roughly 277 miles long, 18 miles wide and a mile deep, the Grand Canyon offers plenty of outdoor activities for everyone from day-trippers to adventure junkies. Hike along the national park's popular Rim and Bright Angel trails for unparalleled vistas, cool off with a whitewater rafting excursion down the Colorado River or view the dramatic landscape from above during a helicopter tour.",
+        "photoFilename": "GrandCanyon",
+        "websiteUrl": "https://travel.usnews.com/Grand_Canyon_AZ/",
+        "latitude": 36.106964,
+        "longitude": -112.112999
+    },
+    {
+        "id": 10,
+        "placeName": "Yosemite",
+        "countryName": "California, United States",
+        "countryCode": "us",
+        "description": "Year after year, millions of visitors travel to Yosemite National Park to stand in awe of natural wonders like Half Dome and Yosemite Falls. Take in the panoramic views from outlooks like Glacier Point and the Tunnel View. Hit the hiking trails early in the day to avoid crowds looking for the perfect photo op. To save money, skip the hotel and camp out for the full experience (just be sure to book your spot well in advance).",
+        "photoFilename": "Yosemite",
+        "websiteUrl": "https://travel.usnews.com/Yosemite_CA/",
+        "latitude": 37.865101,
+        "longitude": -119.538330
+    },
+    {
+        "id": 11,
+        "placeName": "Barcelona",
+        "countryName": "Spain",
+        "countryCode": "es",
+        "description": "This city is a feast for the eyes: Visitors can walk past medieval architecture in the Barri Gòtic, snap photos of the intricate La Sagrada Família and marvel at Gaudí's whimsical creations in Park Güell. Meanwhile, Las Ramblas' restaurants and nightclubs buzz at all hours, while La Barceloneta Beach is the perfect place to pass the time on a hot day.",
+        "photoFilename": "Barcelona",
+        "websiteUrl": "https://travel.usnews.com/Barcelona_Spain/",
+        "latitude": 41.385063,
+        "longitude": 2.173404
+    },
+    {
+        "id": 12,
+        "placeName": "New York City",
+        "countryName": "New York, United States",
+        "countryCode": "us",
+        "description": "New York City hosts infinite urban adventures: You can wander through Central Park, tour the exhibits at the Met, catch a Broadway show or peruse SoHo's stylish boutiques. And at night, admire Manhattan's glittering skyscrapers from the top of the Empire State Building or the rooftop bar of your trendy boutique hotel. Foodies will also appreciate the Big Apple's endless restaurant options. If you want to sample a bit of everything, consider signing up for a food tour.",
+        "photoFilename": "NewYorkCity",
+        "websiteUrl": "https://travel.usnews.com/New_York_NY/",
+        "latitude": 40.712776,
+        "longitude": -74.005974
+    },
+    {
+        "id": 13,
+        "placeName": "Dubai",
+        "countryName": "United Arab Emirates",
+        "countryCode": "ae",
+        "description": "Stunning Persian Gulf views, heart-pumping activities and historic landmarks await you in Dubai. This Middle Eastern city is filled with one-of-a-kind attractions, including the Burj Khalifa, the Dubai Mall and the indoor Ski Dubai. But the city still holds onto its heritage, as seen in the Bastakiya Quarter and the traditional Gold and Spice souks. When you need a break from the hustle and bustle of the city, head to Jumeirah Beach's sandy shore. ",
+        "photoFilename": "Dubai",
+        "websiteUrl": "https://travel.usnews.com/Dubai_United_Arab_Emirates/",
+        "latitude": 25.267410,
+        "longitude": 55.292679
+    },
+    {
+        "id": 14,
+        "placeName": "Sydney",
+        "countryName": "Australia",
+        "countryCode": "au",
+        "description": "Sydney offers more than just a dizzying array of landmarks (the Sydney Opera House, Sydney Harbour, Mrs. Macquarie's Chair and the Sydney Harbour Bridge, to name a few). This Australian city boasts a warm, sunny climate that is ideal for enjoying its long list of seasonal festivals and events, and for relaxing or surfing at world-renowned beaches like Coogee, Bondi and Manly.",
+        "photoFilename": "Sydney",
+        "websiteUrl": "https://travel.usnews.com/Sydney_Australia/",
+        "latitude": -33.868820,
+        "longitude": 151.209290
+    },
+    {
+        "id": 15,
+        "placeName": "Maldives",
+        "countryName": "Republic of Maldives",
+        "countryCode": "mv",
+        "description": "It is not cheap or easy to reach, but this isolated paradise between the Arabian and Laccadive seas is the personification of a dreamy tropical vacation. Here, thatched-roof bungalows straddle crystal-clear aquamarine waters, and beach trips and spa treatments are the only items on the agenda. If cabin fever sets in, pay a visit to the capital, Male, or book a snorkeling or scuba diving excursion.",
+        "photoFilename": "Maldives",
+        "websiteUrl": "https://travel.usnews.com/Maldives/",
+        "latitude": 3.202778,
+        "longitude": 73.220680
+    },
+    {
+        "id": 16,
+        "placeName": "Amsterdam",
+        "countryName": "Netherlands",
+        "countryCode": "nl",
+        "description": "Famous museums, tulips, canal-lined streets, coffee shops and high-end boutiques await you in Amsterdam. Here, you can spend your days gazing at Vincent van Gogh paintings, relaxing in Vondelpark and shopping in the Nine Little Streets area. Immerse yourself in Dutch culture by eating raw herring or pancakes. If you plan your trip for the spring, don't miss the Keukenhof gardens, where you can view millions of flowers.",
+        "photoFilename": "Amsterdam",
+        "websiteUrl": "https://travel.usnews.com/Amsterdam_Netherlands/",
+        "latitude": 52.370216,
+        "longitude": 4.895168
+    },
+    {
+        "id": 17,
+        "placeName": "San Francisco",
+        "countryName": "California, United States",
+        "countryCode": "us",
+        "description": "Home to some of America's most recognizable landmarks, including the Golden Gate Bridge, Fisherman's Wharf and Alcatraz Island, San Francisco has the ability to satisfy outdoorsy types, foodies and curious wanderers of all ages. Take time to explore the Castro district and eat your way through Chinatown. If you don't have time to hit all the top spots, a scenic ride on one of the city's historical cable cars is a must.",
+        "photoFilename": "SanFrancisco",
+        "websiteUrl": "https://travel.usnews.com/San_Francisco_CA/",
+        "latitude": 37.780079,
+        "longitude": -122.420174
+    },
+    {
+        "id": 18,
+        "placeName": "Florence",
+        "countryName": "Italy",
+        "countryCode": "it",
+        "description": "Florence offers plenty of world-famous attractions, including the Duomo, Piazzale Michelangelo and Piazza della Signoria. After appreciating this historic Italian city's Renaissance architecture and art, sample some of the region's delectable Tuscan food and wine at Florence's quaint cafes, gelato shops and ristorantes. Then, cross the Ponte Vecchio to get to the Boboli Gardens, where you'll find verdant gardens and panoramic views.",
+        "photoFilename": "Florence",
+        "websiteUrl": "https://travel.usnews.com/Florence_Italy/",
+        "latitude": 43.769562,
+        "longitude": 11.255814
+    },
+    {
+        "id": 19,
+        "placeName": "Yellowstone",
+        "countryName": "Wyoming, United States",
+        "countryCode": "us",
+        "description": "Considered by many to be a rite of passage for any American, a visit to Yellowstone National Park will leave you in awe of nature's power. Marvel at the kaleidoscopic waters of the Grand Prismatic Spring, catch the hourly show put on by the Old Faithful geyser, admire (from a safe distance) the roaming bison in the Lamar and Hayden valleys or simply relax with a picnic at Yellowstone Lake.",
+        "photoFilename": "Yellowstone",
+        "websiteUrl": "https://travel.usnews.com/Yellowstone_National_Park_WY/",
+        "latitude": 44.427963,
+        "longitude": -110.588455
+    }
+]
+
