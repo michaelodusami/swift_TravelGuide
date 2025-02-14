@@ -12,3 +12,4 @@
 - 🎨 **Modern UI** – Designed with `SwiftUI` for a clean and intuitive interface.
 
 ---
+![Demo Application](./demo.gif)
